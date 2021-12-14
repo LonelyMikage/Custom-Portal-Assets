@@ -5,9 +5,10 @@ Credits:
 ThatBeanLady		rainbow camera texture
 Lia/Nick/idk		darude dinosaur.wav
 NAHTAIV3L		minor detail work on the cube textures
-Halosnow		provided their many textures
+Halosnow		provided their many textures and ihud
 Cosine			provided their transparent portalgun
 SaltyJerms		provided their salt cube
+nonsensicalalias	provided their textures and ihud
 
 --- Contents: ---
 
@@ -22,7 +23,7 @@ others			anything that doesn't fall into the above folders
 
 halo	letterless trans + ace ihud
 Mikage	letterless trans ihud
-
+non	letterless nonsensical purple ihud
 
 --- models ---
 
@@ -91,13 +92,16 @@ models {
   - metal_box[masked].vtf		metal_box with the default mask
   - metal_box[halo].vtf			purple cube
   - metal_box[haloMasked].vtf		metal_box[haloMasked] with the default mask
+  - metal_box[non].vtf			bi cube
   - metal_box[SaltyJerms].vtf		salt logo cube
   - metal_box_skin001.vtf		ace companion cube
+  - metal_box_skin001[non].vtf		bi companion cube
   - pedestal.vtf			trans pink pedestal
   - pedestal_glass.vtf			ace purple pedestal glass
   - portal_cleanser.vtf			trans fizzler
   - radio.vtf				trans radio
   - radio[halo].vtf			purple radio
+  - radio[non].vtf			bi radio
   - Round_elevator_sheet_1.vtf		ace ele interior
   - Round_elevator_sheet_2.vtf		trans ele lights
   - Round_elevator_sheet_3.vtf		lesbian ele sign
