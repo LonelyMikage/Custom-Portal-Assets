@@ -5,9 +5,9 @@ Credits:
 ThatBeanLady		rainbow camera texture
 Lia/Nick/idk		darude dinosaur.wav
 NAHTAIV3L		minor detail work on the cube textures
-Halosnow		provided their [textures]
-Cosine			transparent portalgun
-SaltyJerms		salt cube texture
+Halosnow		provided their many textures
+Cosine			provided their transparent portalgun
+SaltyJerms		provided their salt cube
 
 --- Contents: ---
 
@@ -20,6 +20,7 @@ others			anything that doesn't fall into the above folders
 
 --- ihud configs ---
 
+halo	letterless trans + ace ihud
 Mikage	letterless trans ihud
 
 
@@ -147,6 +148,7 @@ models {
     - v_portalgun.vtf		LonelyMikage's portalgun
     - v_portalgun[green].vtf	green portalgun
     - v_portalgun[halo].vtf	Halosnow's portalgun
+    - v_portalgun[haloOld].vtf	Halosnow's old portalgun
     - v_portalgun[Soviet].vtf	USSR flag portalgun
     - v_portalgun[SovScuffed]	same thing but scuffed
     }
@@ -160,10 +162,12 @@ models {
 )
 
 nature {
+- pony goo			mlp goo **only works on dx90
 - escape_vista_01.vtf		Jeff Nachtigall pixel art tribute
 - escape_vista_02.vtf		part of escape_vista_01
 - hazard_liquid.vtf		ace purple goo
 - hazard_liquid.beneath.vtf	part of hazard_liquid
+- hazard_liquid[halo].vtf	twitter meme goo
 }
 
 signage {
