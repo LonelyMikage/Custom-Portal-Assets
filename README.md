@@ -2,13 +2,13 @@
 A compilation of custom portal assets from minor texture changes to complete text overhauls
 
 Credits:
-- ThatBeanLady ------- rainbow camera texture
-- Lia/Nick/idk ------- darude dinosaur.wav
-- NAHTAIV3L ---------- minor detail work on the cube textures
-- Halosnow ----------- provided their many textures and ihud
-- Cosine ------------- provided their transparent portalgun
-- SaltyJerms --------- provided their salt cube
-- nonsensicalalias --- provided their textures and ihud
+- ThatBeanLady		rainbow camera texture
+- Lia/Nick/idk		darude dinosaur.wav
+- NAHTAIV3L		minor detail work on the cube textures
+- Halosnow		provided their many textures and ihud
+- Cosine		provided their transparent portalgun
+- SaltyJerms		provided their salt cube
+- nonsensicalalias	provided their textures and ihud
 
 --- Contents: ---
 
